@@ -32,3 +32,5 @@ Usuario → Glide App → Google Sheets → Glide Data Editor → Magic Link / I
 Enlaces del proyecto
 APP Glide: https://tu-pedido-sv.glide.page
 Google sheets: https://docs.google.com/spreadsheets/d/1nvceJsk-VPob0jR_Y9e6WNJpQ0t-p1DtXe6j_8oG27s/edit?usp=sharing
+Video de app: https://youtu.be/PetfSkXhMnk
+Video de PROMPT: https://youtu.be/gVVbU1vp6Q8
